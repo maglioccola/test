@@ -2,7 +2,7 @@
 
 Per cominciare devi installare GIT e poi fare il "clone" del repository:
 
-git clone https://github.com/maglioccola/test.git
+`git clone https://github.com/maglioccola/test.git`
 
 Ti chiederà utente e password (utilizzerai quindi le credenziali di GitHub)
 
